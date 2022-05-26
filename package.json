@@ -1,0 +1,16 @@
+{
+  "name": "spectaql-theme-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:develop": "spectaql ./spectaql-config.yml -D",
+    "docs:build": "spectaql ./spectaql-config.yml -t ./build/docs"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "spectaql": "^1.2.1",
+    "spectaql-dark-theme": "^0.0.1"
+  }
+}
