@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "docs:develop": "spectaql ./spectaql-config.yml -D",
-    "docs:build": "spectaql ./spectaql-config.yml -t ./build/docs"
+    "docs:develop": "node node_modules/spectaql/bin/spectaql.js ./spectaql-config.yml -D",
+    "docs:build": "node node_modules/spectaql/bin/spectaql.js ./spectaql-config.yml -t ./build/docs"
   },
   "author": "",
   "license": "MIT",
