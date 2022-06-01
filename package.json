@@ -7,7 +7,7 @@
     "docs:develop": "node node_modules/spectaql/bin/spectaql.js ./spectaql-config.yml -D",
     "docs:build": "node node_modules/spectaql/bin/spectaql.js ./spectaql-config.yml -t ./build/docs"
   },
-  "author": "",
+  "author": "Anvil (developers@useanvil.com)",
   "license": "MIT",
   "devDependencies": {
     "spectaql": "^1.2.2",
