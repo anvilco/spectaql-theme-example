@@ -2287,10 +2287,10 @@ source-map@~0.1.33:
   dependencies:
     amdefine ">=0.0.4"
 
-spectaql-dark-theme@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.npmjs.org/spectaql-dark-theme/-/spectaql-dark-theme-1.0.0.tgz#027b790f59bb4b1b94af4debbb809d00bd8f4ceb"
-  integrity sha512-Xl1rpoWNIZ0vstDA8o+U1FSO3rGoCm8Kb1ZOT5DkOA7vfE7o2ukjdI2NX+npVhWw4nHctVEWQxUHPzIYv/tGsw==
+spectaql-dark-theme@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.npmjs.org/spectaql-dark-theme/-/spectaql-dark-theme-1.0.1.tgz#49c74b92c417c51cc46f637ee1ac9b2086b01f4e"
+  integrity sha512-su53K+56LYJ91Vk+mgvu1KMNmKlEMJytllV2eg/AxVJ0Iyra9qFivOZoS/vqZn/AvzuJwIimyO7W5+cLGFHqhA==
 
 spectaql@^1.2.2:
   version "1.2.2"

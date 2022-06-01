@@ -11,6 +11,6 @@
   "license": "MIT",
   "devDependencies": {
     "spectaql": "^1.2.2",
-    "spectaql-dark-theme": "^1.0.0"
+    "spectaql-dark-theme": "^1.0.1"
   }
 }
