@@ -26,4 +26,4 @@ You can fork the example and point it to your own schema by updating the [intros
 
 Instead of using a theme from NPM, you can use a local directory as a theme. Fork this project, create a local theme directory, and update the [`spectaql.themeDir`](https://github.com/anvilco/spectaql/blob/857ac01fc02070854b5f7abfad3b41ce2ec44602/config-example.yml#L33) yaml key to point to your local theme directory.
 
-See the [theme readme](https://github.com/anvilco/spectaql/tree/main/examples/themes) for more details.
+See the [theme readme](https://github.com/anvilco/spectaql/tree/main/examples/themes) and [SpectaQL theming blog post](https://www.useanvil.com/blog/engineering/building-a-spectaql-theme-for-your-graphql-documentation) for more details.
