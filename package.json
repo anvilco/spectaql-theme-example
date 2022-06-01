@@ -10,7 +10,7 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "spectaql": "^1.2.1",
-    "spectaql-dark-theme": "^0.0.1"
+    "spectaql": "^1.2.2",
+    "spectaql-dark-theme": "^1.0.0"
   }
 }
